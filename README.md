@@ -1,3 +1,3 @@
 #DEMO
 # CalculatorJS
-https://blacksheepshaun.github.io/CalculatorJS/
+(https://shunkhaing.github.io/CalculatorJS/)
